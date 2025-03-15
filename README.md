@@ -1,4 +1,4 @@
-<img src="banne.png" alt="GitHub Banner" width="100%" />
+<img src="banner.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Royal, a Indian Web Developer 👋🏼:
 👨‍💻 Full-Stack Developer | 🚀 Building Scalable Web Applications | ☁️ Cloud Enthusiast<br>💡 Passionate about solving real-world problems with code    <br>🌱 Currently learning: **Microservices Architecture**  
